@@ -1,0 +1,90 @@
+
+
+.navbar-nav{
+    margin-left: 590px;
+  font-size: 18px;
+  
+    
+}
+.nav-link{
+    color: rgb(24, 24, 152);
+}
+.navbar-brand{
+    font-size: 30px;
+    color: rgb(24, 24, 152);
+}
+.h1{
+    font-size: 45px;
+    margin-left: 6%;
+    margin-top: 4%;
+    color: rgb(24, 24, 152);
+}
+.p{
+    margin-left: 80px;
+    padding-top: 30px;
+
+    color: rgb(255, 255, 255);
+
+   font-size: 20px;
+}
+.signin{
+    border-radius: 20px;
+    padding-left:10px;
+    border-color: rgb(199, 197, 197);
+    background-color: rgb(255, 255, 255);
+}
+p{
+    margin-left: 210px;
+    margin-top: 30px;
+    float: left;
+    color: rgb(116, 116, 128);
+}
+.vertical {
+    border-left: 2px solid rgb(171, 171, 176);
+    
+    height: 120px;
+    position:absolute;
+    left: 36%;
+    margin-top: 10px;
+  }
+  .vertical1 {
+    border-left: 2px solid rgb(171, 171, 176);
+    
+    height: 120px;
+    position:absolute;
+    left: 65%;
+    margin-top: 10px;
+  }
+img{
+    margin-top: 20px;
+margin-left: 450px;
+}
+
+.row{
+    padding-top: 40px;
+  padding-left: 550px;
+}
+  .form-control{
+border-color: rgb(113, 108, 108);
+    border-radius: 35px;
+    background-color:rgb(43, 43, 136);
+    color: rgb(102, 95, 95);
+    font-size: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.btn-primary{
+    border-radius: 20px;
+    margin-left: 590px;
+    font-size: 15px;
+    background-color: rgb(116, 233, 212);
+    margin-top: 15px;
+}
+
+
+footer{
+    margin-left: 560px;
+    color: rgb(102, 95, 95);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+}
